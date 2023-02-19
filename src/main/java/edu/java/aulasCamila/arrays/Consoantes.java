@@ -1,4 +1,4 @@
-package edu.java.arrays;
+package edu.java.aulasCamila.arrays;
 
 import java.util.Scanner;
 

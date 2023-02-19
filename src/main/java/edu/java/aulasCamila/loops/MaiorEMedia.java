@@ -1,4 +1,4 @@
-package edu.java.loops;
+package edu.java.aulasCamila.loops;
 
 import java.util.Scanner;
 

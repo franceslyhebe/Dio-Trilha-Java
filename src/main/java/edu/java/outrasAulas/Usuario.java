@@ -1,4 +1,4 @@
-package edu.java.SmartTV;
+package edu.java.outrasAulas;
 
 public class Usuario {
 

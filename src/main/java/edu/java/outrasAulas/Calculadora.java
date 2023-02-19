@@ -1,4 +1,4 @@
-package edu.java.Calculadora;
+package edu.java.outrasAulas;
 /**
  * <h1>Calculadora</h1>
  * A Calculadora realiza operações matemáticas entre numeros inteiros
